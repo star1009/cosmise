@@ -1,0 +1,10 @@
+*{box-sizing: border-box;}
+body{
+    margin: 0px;
+}
+#p{
+    position: relative;
+    width: 100%;
+    z-index: 0%;
+    float: left;
+}
